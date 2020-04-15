@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/WPF-100%25-blue)
 ![](https://img.shields.io/github/issues/Naktrem/FolderSniper)
 
-##Fun way to delete unwanted folders.
+## Fun way to delete unwanted folders.
 
 <img src="Crosshair.png" alt="drawing" width="200"/>
 
