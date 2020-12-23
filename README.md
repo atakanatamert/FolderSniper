@@ -11,4 +11,4 @@ project, definitely check it out at https://github.com/gmamaladze/globalmousekey
 
 To run the program in this project, first clone the code and then add 16x16 pixels icon.ico file and sound.wav file. Otherwise,
 the program won't run as expected.
-
+ 
